@@ -1,0 +1,125 @@
+
+/*Color Values*/
+
+:root{
+    --primary-color     :rgb(28, 28, 37);            /*Body Background color*/
+    --secondery-color   :rgb(24, 25, 41);               /*Upper Area*/
+    --tertiary-color    :#347199;                       /*Accent Color 1*/
+    --quaternary-color  :rgb(76, 84, 97);               /*Active Color*/
+    --quinary-color     :rgba(32, 31, 107, 0.514);      /*Hover Color*/
+    --rias-color        :rgb(29, 29, 43)       ;        /*Accent Color 2*/
+    --idk-color         :brown;                         /*Accent Color 3*/
+}  
+
+
+
+body{
+    background-color: var(--primary-color);
+    scrollbar-width: hide;
+    overflow-y:scroll;
+}
+
+
+/*Divs*/
+
+.UpperArea{
+    height: 10%;
+    width: 100%;
+    background-color: var(--secondery-color);
+    position: absolute;
+    left: 0cm;
+    top: 0cm;
+}
+
+.MainArea-Left{
+    background-color: var(--tertiary-color);
+    height: 90%;
+    width: 50%;
+    position: absolute;
+    top: 10%;
+    left: 0cm;
+}
+
+.MainArea-Right{
+    background-color: var(--rias-color);
+    height: 90%;
+    width: 50%;
+    position: absolute;
+    top: 10%;
+    right: 0cm;
+}
+
+/*Navigation Bar*/
+
+
+
+a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+    font-family: "Fjalla One", sans-serif;
+    font-weight: 400;
+    position: absolute;
+    left: 40%;
+    top: 20%;
+    font-size: 120%;
+}
+
+.Home{
+    background-color: var(--secondery-color);
+    width: 25%;
+    height: 10%;
+    position: absolute;
+    left: 0%;
+    top: 0%;
+}
+
+.AboutMe{
+    background-color: var(--secondery-color);
+    width: 25%;
+    height: 10%;
+    position: absolute;
+    left: 25%;
+    top: 0%;
+}
+
+.GoodBooks{
+    background-color: var(--secondery-color);
+    width: 25%;
+    height: 10%;
+    position: absolute;
+    left: 50%;
+    top: 0%;
+}
+
+.Blog{
+    background-color: var(--secondery-color);
+    width: 25%;
+    height: 10%;
+    position: absolute;
+    left: 75%;
+    top: 0%;
+}
+
+/*Hover/Active Nav*/
+
+a:hover{
+    background-color: var(--quinary-color);
+}
+
+/*Others*/
+
+.title{
+    color: white;
+    font-family: "Fjalla One", sans-serif;
+    font-weight: 400;
+    font-size: 200%;
+    position: absolute;
+    left: 15%;
+    top: 25%;
+}
+
+/*Pictures*/
+
+
+

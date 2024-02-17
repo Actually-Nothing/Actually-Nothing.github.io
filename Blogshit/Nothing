@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap" rel="stylesheet">
+</head>
+
+<style>
+
+    p{
+        font-family: "Fjalla One", sans-serif;
+        font-weight: 400;
+        color: white;
+        position: absolute;
+        left: 5%;
+        font-size: 100%;
+    }
+
+</style>
+
+<body>
+    <p style="font-family: 'Barlow Condensed', sans-serif;" >
+    At the end of the day, even your life, <br>
+    <b>reading this will have made no difference.</b> <br>
+    You can grieve about it, <br>
+    be confused or scared or <b>accept it</b>. <br>
+    At the end of life, your friends, family,<br>
+    ideals and values will <b>die</b> with you.<br>
+    At least if we assume that you die and there<br>
+    is no higher being that judges you and decides<br>
+    whether hell or heaven,<br>
+    rebirth or eternal life is your future.<br>
+    <b>Then nothing will happen.</b><br>
+    So what? It's not so bad.<br>
+    You probably can't think about it anyway.<br>
+    It will be the peace that the living can<br>
+    never achieve.<br>
+    Neither negative nor positive will ever<br>
+    come your way again.<br>
+    Boring?<br>
+    Maybe.<br>
+    <b>You probably won't be able to think aboutit anyway.</b><br>
+    This article is just for you to think about it.<br><br>
+
+    <b>Read a good book.</b><br>
+    Eat a tasty meal.<br>
+    Take a closer look at your environment.<br>
+    Watch a good movie.<br>
+    Play an entertaining computer game.<br><br>
+
+    All this is <b>nothing</b>, do you understand?<br><br>
+
+    Nevertheless, <b>nothing can be fun</b><br>
+    </p>
+    
+</body>
+</html>
