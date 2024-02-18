@@ -62,7 +62,6 @@ a{
     position: absolute;
     left: 40%;
     top: 20%;
-    font-size: 120%;
 }
 
 .Home{
@@ -115,11 +114,74 @@ a:hover{
     font-weight: 400;
     font-size: 200%;
     position: absolute;
-    left: 15%;
+    left: 10%;
     top: 25%;
 }
 
-/*Pictures*/
+/*Media shit*/
+
+/*CSS 2000px XXXL*/
+
+@media screen and (min-width: 2000px) {
+    a{
+        font-size: 240%;  
+    }
+}
+
+/*CSS 1440px XXL*/
+
+@media screen and (min-width: 1440px) {
+    a{
+        font-size: 140%;  
+    }
+}
+
+/*CSS 1200px XL*/
+
+@media screen and (min-width: 1200px) {
+
+    a{
+        font-size: 120%;  
+    }
+
+}
+
+/*CSS 992px lg*/
+
+@media screen and (min-width: 992px) {
+
+    a{
+        font-size: 110%;  
+    }
+
+}
+
+/*CSS 768px lg*/
+
+@media screen and (min-width: 768px) {
+
+    a{
+        font-size: 140%;  
+    }
+
+}
+
+/*CSS 576px lg*/
+
+@media screen and (max-width: 576px) {
+
+    a{
+        font-size: 100%;  
+    }    
+
+}
+
+
+
+
+
+
+
 
 
 
