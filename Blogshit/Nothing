@@ -13,8 +13,20 @@
         font-weight: 400;
         color: white;
         position: absolute;
-        left: 5%;
+        top: 5%;
+        left: 25%;
         font-size: 100%;
+    }
+
+    @media screen and (max-width: 500px) { 
+        
+        p{
+        position: absolute;
+        top: 3%;
+        left: 3%;
+        font-size: 80%;
+    }
+        
     }
 
 </style>
@@ -40,7 +52,8 @@
     come your way again.<br>
     Boring?<br>
     Maybe.<br>
-    <b>You probably won't be able to think aboutit anyway.</b><br>
+    <b>You probably won't be able to <br>
+        think aboutit anyway.</b><br>
     This article is just for you to think about it.<br><br>
 
     <b>Read a good book.</b><br>
