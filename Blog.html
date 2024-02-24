@@ -69,6 +69,16 @@
         left: 15%;
     }
 
+    .buttonNothing{
+        position: absolute;
+        left: 5%;
+    }
+
+    .buttonIrrelevant{
+        position: absolute;
+        left: 25%;
+    }
+
     /*CSS 576px lg*/
 
     @media screen and (max-width: 500px) {  
@@ -101,7 +111,8 @@
     <div class="UnderArea">
 
         <div class="ButtonDiv">
-            <a onclick="loadPage('./Blogshit/Nothing');" target="main">[Nothing]</a>
+            <a class="buttonNothing" onclick="loadPage('./Blogshit/Nothing');" target="main">[Nothing]</a>
+            <a class="buttonIrrelevant" onclick="loadPage('./Blogshit/Irrelevant');" target="main">[Irrelevant]</a>
         </div>
 
        <div id="here" class="BlogDiv">

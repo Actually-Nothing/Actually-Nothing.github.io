@@ -130,6 +130,11 @@ a:hover{
     a{
         font-size: 240%;  
     }
+
+    .title{
+        font-size: 300%;
+    }
+
 }
 
 /*CSS 1440px XXL*/
@@ -137,6 +142,10 @@ a:hover{
 @media screen and (min-width: 1440px) {
     a{
         font-size: 140%;  
+    }
+
+    .title{
+        font-size: 300%;
     }
 }
 
@@ -158,6 +167,8 @@ a:hover{
         font-size: 110%;  
     }
 
+
+
 }
 
 /*CSS 768px lg*/
@@ -176,7 +187,11 @@ a:hover{
 
     a{
         font-size: 100%;  
-    }    
+    }
+
+    .title{
+        font-size: 100%;
+    }
 
 }
 
