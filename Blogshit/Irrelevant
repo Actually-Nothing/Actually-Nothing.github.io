@@ -18,16 +18,35 @@
         font-size: 100%;
     }
 
-    @media screen and (max-width: 500px) { 
-        
+    @media screen and (max-width: 900px) { 
+
         p{
         position: absolute;
         top: 3%;
         left: 3%;
-        font-size: 70%;
+        font-size:80%;
+        }
+}
+
+    @media screen and (max-width: 500px) { 
+
+        p{
+        position: absolute;
+        top: 3%;
+        left: 3%;
+        font-size: 75%;
     }
-        
+}
+
+    @media screen and (max-width: 400px) { 
+
+        p{
+        position: absolute;
+        top: 3%;
+        left: 3%;
+        font-size: 65%;
     }
+}
 
 </style>
 
@@ -41,25 +60,33 @@
         The food that tasted so good this morning is now irrelevant.<br>
         Does that sound bad?<br>
         Why?<br>
-        Everything will pass and everything good and beautiful will be neither a burden nor a pleasure for you.<br>
-        But at this moment you can make it good or bad, it's all in your hands.<br>
+        Everything will pass and everything good and  <br>
+        beautiful will be neither a burden nor a pleasure for you.<br>
+        But at this moment you can make it good or bad, <br>
+        it's all in your hands.<br>
         Everything that is dark can gain light through your hand<br>
-        and everything that is already light can become dark again through you.<br>
-        Everything is controlled by your perspective and you decide which one you take.<br><br>
+        and everything that is already light can become dark again <br>
+        through you.<br>
+        Everything is controlled by your perspective and you decide <br>
+        which one you take.<br><br>
 
         Why see it that way?<br><br>
 
-        ''Oh man, I forgot to do my homework! Damn, I'm really going to get in trouble for this : ( ''<br><br>
+        ''Oh man, I forgot to do my homework! Damn, I'm really going <br>
+        to get in trouble for this : ( ''<br><br>
 
         If you can see it that way too<br><br>
 
-        ''I forgot my homework but I'm not going to let these bad emotions get to me and just enjoy the day! : )''<br><br>
+        ''I forgot my homework but I'm not going to let these bad emotions <br>
+        get to me and just enjoy the day! : )''<br><br>
 
         That sounds weird ?<br>
         Maybe.<br>
-        But you could enjoy beautiful little and big things instead of always being preoccupied with tiring thoughts and activities.<br><br>
+        But you could enjoy beautiful little and big things instead of always<br>
+        being preoccupied with tiring thoughts and activities.<br><br>
 
-        Don't get upset about the street noise on the way to work, but be happy about the flower you saw on the way.<br>
+        Don't get upset about the street noise on the way to work, but be <br>
+        happy about the flower you saw on the way.<br>
 
 
 
